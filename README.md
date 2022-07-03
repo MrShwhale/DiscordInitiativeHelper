@@ -2,7 +2,7 @@
 A Discord bot to help manage initiative rounds in Dungeons and Dragons
 
 ## Running/installation
-To run, download main.py, replace the string "\<TOKEN>" with a discord bot token.
+To run, download main.py, replace the string "\<TOKEN>" with a discord bot token. The discord.py library is required for this project to run.
 
 Then, simply run the file.
 
