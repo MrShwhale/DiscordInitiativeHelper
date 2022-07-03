@@ -13,6 +13,8 @@ It will render the chosen channel unusable since it deletes all messages sent in
 
 Command overview is available by using the ?help command
 
+DM the bot with add commmands for enemies, so that the stats are not leaked. 
+
 
 ## How to add character macros
 Characters allow for macros that make common rolls (such as PCs) very fast, and more intuitive
